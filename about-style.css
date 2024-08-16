@@ -97,91 +97,47 @@ body{
     color: aliceblue;
     text-decoration: none;
 }
+
+
+
+
+
 .padding{
     padding-top: 70px;
 }
 .ass-bg-padding{
     padding-top: 140px;
 }
-
-.midel-bg{
-    background-image: url(image/event-bg.jpg);
-    height: 545px;
-}
-.midel-box{
-    padding-top: 120px;
+.down-padding{
+    padding-top: ;
 }
 
-.close{
-    background-color: #13386B;
-    height:195px ;
+
+
+.about{
+    background: url(image/about-background.jpg);
+    height: 550px;
+}
+.about-us{
+    padding-top: 95px;
 }
 
-.down{
-   
-   
- }
- .text{
-     color: white;
-     font-size: 27px;
-    font-style: normal;
-     
- }
- .padding-text{
-    padding-top: 80px;
- }
- .down-png{
-     padding-top: 80px;
- }
 
 
 
-
-
- .last{
-     background-color: black;
-     height: 55px;
- }
- footer{
-     color: aliceblue;
-     padding-top: 18px;
- }
- #website{
-     color: white;
- }
- .test-img{
-    border: 2.5px solid rgba(4, 0, 7, 0.4);
-    border-radius: 50px;
-    
-     border: 1p;
-     width: 40px;
-     height: 40px;
- }
- .three-png{
-     width: 30px;
-     height: 30px;
-     text-align: center;
-     padding-left: 4px;padding-top: 5px;
-    
- }
- .test-img:hover{
-     background-color:#13386B;
-     color:white ;
-  
- }
- .white-png{
-     position: absolute;
-     top: 0%;
-     display: none;
- }
- .photo-frame:hover .white-png{
-      width: 30px;
-     height: 30px;
-     text-align: center;
-     padding-left: 4px;padding-top: 5px;
- }
-
-
-
-
- 
+.second-top-bg{
+    background-image: url(image/about-background2.jpg);
+    height: 515px;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.white-bg{
+    background-color: white;
+    height: 340px;
+    width: 360px;
+    padding-top: 20px;
+}
+.blue-text{
+    color:rgb(4, 3, 63) ;
+    text-decoration: none;
+}
