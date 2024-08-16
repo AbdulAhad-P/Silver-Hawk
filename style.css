@@ -47,9 +47,7 @@ body{
 .navber{
     color:rgb(0, 0, 0) ;
     text-decoration: none;
-    margin-left: 55px;
-  
-    
+    margin-left: 55px; 
 }
 .midel{
     text-align: center;
@@ -71,6 +69,15 @@ body{
 }
 .col-3{
 	width: 25%;
+}
+.padding{
+    padding-top: 70px;
+}
+.ass-bg-padding{
+    padding-top: 140px;
+}
+.down-padding{
+    padding-top: ;
 }
 .about{
     background: url(image/about-background.jpg);
@@ -96,11 +103,6 @@ body{
 
     
 
-#plus{
-    height: 60px;
-    width: 60px;
-  
-}
     .photo-detail{
         text-align: center;position: absolute;
         width: 360px;
@@ -180,8 +182,18 @@ body{
        
     }
     .test-img:hover{
-        background-color:rgb(55, 27, 214) ;
+        background-color:#13386B;
         color:white ;
-       
-        
+     
+    }
+    .white-png{
+        position: absolute;
+        top: 0%;
+        display: none;
+    }
+    .photo-frame:hover .white-png{
+         width: 30px;
+        height: 30px;
+        text-align: center;
+        padding-left: 4px;padding-top: 5px;
     }
