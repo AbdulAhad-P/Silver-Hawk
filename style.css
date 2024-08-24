@@ -407,6 +407,13 @@ width: 100%;
   top: 80px;
   left: 370px;
 }
+.about-last-bg-details .row{
+  gap: 15px;
+}
+
+
+
+
 
 /* contact */
 .grid {
