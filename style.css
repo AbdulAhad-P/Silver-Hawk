@@ -296,7 +296,7 @@ footer {
 }
 .container-details {
   color: aliceblue;
-  padding-top: 12%;
+  padding-top: 10%;
   text-align: center;
 }
 .white {
@@ -463,6 +463,9 @@ width: 100%;
 }
 .contact-padding{
   padding-top: 80px;
+}
+.pad{
+  padding-bottom: 60px;
 }
 
 
